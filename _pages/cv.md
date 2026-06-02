@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, New Mexico State University (NMSU), 2025–present
+  * GPA: 4.0/4.0 — Graduate Teaching Assistantship
+* B.E. in Electronics, Communications and Information Engineering, Institute of Engineering, Tribhuvan University, Nepal, 2018–2023
+  * Graduated with Distinction (80.41%) — Ranked top of cohort, 2nd–8th semester
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2025–present: Graduate Researcher
+  * New Mexico State University, Dept. of Computer Science
+  * Supervisor: Dr. Tuan Le
+  * Developing a multi-view mathematical formula retrieval framework combining GNNs and transformer-based embeddings
+  * Evaluating on the NTCIR-12 Math benchmark using TREC metrics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Experience
+======
+* Feb 2025–present: Web & CRM Systems Graduate Assistant
+  * Graduate School, NMSU
+  * Manage web infrastructure (Cascade CMS) and digital workflows (Slate CRM)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* May 2023–Dec 2024: Business Intelligence Executive
+  * Foreveryng, Nepal
+  * Built data-driven analytics pipelines in Python/SQL; delivered dashboards in Tableau and Power BI
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, SQL, MATLAB
+* ML/DL: PyTorch, TensorFlow, HuggingFace Transformers, PyTorch Geometric, Scikit-learn
+* Tools: Git, Linux, Jupyter, LaTeX
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards & Honors
 ======
-* Currently signed in to 43 different slack teams
+* Best Poster Presenter, 16th NeSA International Conference, 2025
+* Academic Distinction — Ranked top of cohort, B.E. program, Tribhuvan University
