@@ -21,26 +21,37 @@ Research Experience
 * Aug 2025–present: Graduate Researcher
   * New Mexico State University, Dept. of Computer Science
   * Supervisor: Dr. Tuan Le
-  * Developing a multi-view mathematical formula retrieval framework combining GNNs and transformer-based embeddings
-  * Evaluating on the NTCIR-12 Math benchmark using TREC metrics
+  * Developing a multi-view mathematical formula retrieval framework combining GNNs and transformer-based contextual embeddings
+  * Evaluating on the NTCIR-12 Math benchmark using standard TREC evaluation metrics
 
 Professional Experience
 ======
 * Feb 2025–present: Web & CRM Systems Graduate Assistant
-  * Graduate School, NMSU
-  * Manage web infrastructure (Cascade CMS) and digital workflows (Slate CRM)
+  * Graduate School, NMSU (part-time Spring/Fall; full-time Summer)
+  * Manage Graduate School web infrastructure using Cascade CMS
+  * Support digital workflows and user access management in Slate CRM
 
 * May 2023–Dec 2024: Business Intelligence Executive
-  * Foreveryng, Nepal
-  * Built data-driven analytics pipelines in Python/SQL; delivered dashboards in Tableau and Power BI
+  * Foreveryng, Lalitpur, Nepal
+  * Built data-driven reporting and analytics workflows in Python and SQL
+  * Automated forecasting pipelines; delivered dashboards in Tableau and Power BI
+
+* Jan 2023–Jul 2023: AI Fellow
+  * Fusemachines, Kathmandu, Nepal (Remote)
+  * Completed intensive training in AI/ML fundamentals
+  * Built a recommendation engine prototype for content personalization
+
+* Dec 2022–Jan 2023: Data Science & Business Analytics Intern
+  * The Sparks Foundation (Remote)
+  * Cleaned and prepared datasets; designed dashboards in Python and Tableau
 
 Skills
 ======
 * Programming: Python, C/C++, SQL, MATLAB
 * ML/DL: PyTorch, TensorFlow, HuggingFace Transformers, PyTorch Geometric, Scikit-learn
-* Tools: Git, Linux, Jupyter, LaTeX
+* Tools: Git, Linux, Jupyter, LaTeX, Tableau, Power BI
 
-Publications
+Publications (Preprints)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,6 +62,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Certifications
+======
+* AI Agents Fundamentals — Hugging Face (2025)
+* Data Analyst with Python — DataCamp
+* CNN with TensorFlow in Python — 365 Data Science
+* Image Processing with Keras — DataCamp
+* AWS Academy Cloud Foundations — AWS
 
 Awards & Honors
 ======

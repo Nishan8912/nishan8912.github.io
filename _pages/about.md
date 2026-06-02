@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at **New Mexico State University (NMSU)**, where I hold a Graduate Teaching Assistantship (GPA: 4.0/4.0). I work as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science.
+I am a Master's student in Computer Science at **New Mexico State University (NMSU)**, where I hold a Graduate Teaching Assistantship (GPA: 4.0/4.0). Since August 2025, I have been working as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science.
 
-My research focuses on **mathematical formula retrieval** — developing a multi-view framework that combines graph neural networks (capturing structural representations of math expressions via OPT/SLT parse trees) with transformer-based contextual embeddings. I evaluate this framework on the NTCIR-12 Math benchmark using standard TREC evaluation metrics.
+My current research focuses on **mathematical formula retrieval** — developing a multi-view framework that combines graph neural networks (capturing structural representations of math expressions via OPT/SLT parse trees) with transformer-based contextual embeddings, evaluated on the NTCIR-12 Math benchmark.
 
-Previously, I completed my B.E. in Electronics, Communications and Information Engineering at the **Institute of Engineering, Tribhuvan University** (Nepal), graduating with distinction and ranked top of my cohort across the 2nd–8th semesters.
+I completed my B.E. in Electronics, Communications and Information Engineering at the **Institute of Engineering, Tribhuvan University** (Nepal) in 2023, graduating with distinction and ranked top of my cohort.
+
+Before joining NMSU, I worked as a **Business Intelligence Executive** at Foreveryng (Nepal), building analytics pipelines and dashboards in Python, SQL, Tableau, and Power BI. I also completed an AI fellowship at Fusemachines and a data science internship at The Sparks Foundation.
 
 ## Research Interests
 
 - Mathematical Information Retrieval
-- Graph Neural Networks (GNN) for structured data
+- Graph Neural Networks for structured data
 - Transformer-based language models (BERT, HuggingFace)
-- Medical Image Segmentation & Computer Vision
+- Medical Image Segmentation
 - Explainable AI (XAI)
 
 ## News
 
-- **Jun 2026** — Preprint: *A Unified Attention U-Net Framework for Cross-Modality Tumor Segmentation in MRI and CT* ([arXiv:2601.06187](https://arxiv.org/abs/2601.06187))
+- **Jan 2026** — Preprint posted: *A Unified Attention U-Net Framework for Cross-Modality Tumor Segmentation in MRI and CT* ([arXiv:2601.06187](https://arxiv.org/abs/2601.06187))
 - **Aug 2025** — Joined NMSU as Graduate Researcher under Dr. Tuan Le
-- **Aug 2025** — Preprint: *Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks* ([arXiv:2508.10196](https://arxiv.org/abs/2508.10196))
+- **Aug 2025** — Preprint posted: *Explainable AI Technique in Lung Cancer Detection Using CNNs* ([arXiv:2508.10196](https://arxiv.org/abs/2508.10196)) — based on undergraduate final year project (2022)
 - **2025** — **Best Poster Presenter**, 16th NeSA International Conference — *Enhancing Lung Cancer Diagnosis with Explainable AI and Deep Learning*
-- **Jan 2025** — Started M.S. in Computer Science at NMSU with GTA & Graduate Assistantship
+- **Jan 2025** — Started M.S. in Computer Science at NMSU
