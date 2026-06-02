@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at **New Mexico State University (NMSU)**, where I hold a Graduate Teaching Assistantship (GPA: 4.0/4.0). Since August 2025, I have been working as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science.
+I am a Master's student in Computer Science at **New Mexico State University (NMSU)** (GPA: 4.0/4.0). I currently work as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science (since August 2025), and as a **Web & CRM Systems Graduate Assistant** at the NMSU Graduate School (since February 2025).
 
 My current research focuses on **mathematical formula retrieval** — developing a multi-view framework that combines graph neural networks (capturing structural representations of math expressions via OPT/SLT parse trees) with transformer-based contextual embeddings, evaluated on the NTCIR-12 Math benchmark.
 
 I completed my B.E. in Electronics, Communications and Information Engineering at the **Institute of Engineering, Tribhuvan University** (Nepal) in 2023, graduating with distinction and ranked top of my cohort.
 
-Before joining NMSU, I worked as a **Business Intelligence Executive** at Foreveryng (Nepal), building analytics pipelines and dashboards in Python, SQL, Tableau, and Power BI. I also completed an AI fellowship at Fusemachines and a data science internship at The Sparks Foundation.
+Before joining NMSU, I worked as a **Business Intelligence Executive** at Foreveryng (Nepal), building analytics pipelines and dashboards in Python, SQL, Tableau, and Power BI.
 
 ## Research Interests
 
