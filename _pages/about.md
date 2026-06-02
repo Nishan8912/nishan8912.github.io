@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computer Science at **New Mexico State University (NMSU)** (GPA: 4.0/4.0). I currently work as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science (since August 2025), and as a **Web & CRM Systems Graduate Assistant** at the NMSU Graduate School (since February 2025).
+I am a Master's student in Computer Science at **New Mexico State University (NMSU)**. I currently work as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science (since August 2025), and as a **Web & CRM Systems Graduate Assistant** at the NMSU Graduate School (since February 2025).
 
 My current research focuses on **mathematical formula retrieval** — developing a multi-view framework that combines graph neural networks (capturing structural representations of math expressions via OPT/SLT parse trees) with transformer-based contextual embeddings, evaluated on the NTCIR-12 Math benchmark.
 
