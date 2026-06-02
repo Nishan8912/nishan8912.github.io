@@ -22,7 +22,7 @@ repository               : "Nishan8912/nishan8912.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nishan Rai"
   pronouns         : # example: "she/her"
   bio              : "M.S. CS @ NMSU | Graduate Researcher | Mathematical Formula Retrieval with GNNs & Transformers"
