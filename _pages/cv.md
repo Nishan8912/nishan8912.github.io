@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, New Mexico State University (NMSU), 2025–present
-  * GPA: 4.0/4.0 — Graduate Teaching Assistantship
+  * GPA: 4.0/4.0
 * B.E. in Electronics, Communications and Information Engineering, Institute of Engineering, Tribhuvan University, Nepal, 2018–2023
-  * Graduated with Distinction (80.41%) — Ranked top of cohort, 2nd–8th semester
+  * Graduated with Distinction (80.41%)
 
 Research Experience
 ======
@@ -74,4 +74,4 @@ Certifications
 Awards & Honors
 ======
 * Best Poster Presenter, 16th NeSA International Conference, 2025
-* Academic Distinction — Ranked top of cohort, B.E. program, Tribhuvan University
+* Academic Distinction — Achieved 1st Rank in major at campus level.
