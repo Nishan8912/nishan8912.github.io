@@ -74,4 +74,4 @@ Certifications
 Awards & Honors
 ======
 * Best Poster Presenter, 16th NeSA International Conference, 2025
-* Academic Distinction — Achieved 1st Rank in major at campus level.
+* Academic Distinction — Ranked top of college cohort, 2nd--8th semester.
