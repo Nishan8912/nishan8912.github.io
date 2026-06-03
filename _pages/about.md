@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am interested in developing graph- and transformer-based AI methods for structured scientific and biomedical data, with current research focused on mathematical information retrieval and prior work in medical image analysis.
+
 I am a Master's student in Computer Science at **New Mexico State University (NMSU)**. I currently work as a **Graduate Researcher** under the supervision of Dr. Tuan Le in the Department of Computer Science (since August 2025), and as a **Web & CRM Systems Graduate Assistant** at the NMSU Graduate School (since February 2025).
 
 My current research focuses on **mathematical formula retrieval** — developing a multi-view framework that combines graph neural networks (capturing structural representations of math expressions via OPT/SLT parse trees) with transformer-based contextual embeddings, evaluated on the NTCIR-12 Math benchmark.
@@ -17,11 +19,11 @@ Before joining NMSU, I worked as a **Business Intelligence Executive** at Foreve
 
 ## Research Interests
 
+- Graph and Transformer-based Representation Learning
 - Mathematical Information Retrieval
-- Graph Neural Networks for structured data
-- Transformer-based language models (BERT, HuggingFace)
-- Medical Image Segmentation
-- Explainable AI (XAI)
+- Scientific Document Understanding
+- Large Language Models
+- Biomedical AI · Medical Image Analysis
 
 ## News
 
