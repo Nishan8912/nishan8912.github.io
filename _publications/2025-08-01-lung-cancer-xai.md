@@ -1,7 +1,7 @@
 ---
 title: "Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-08-01-lung-cancer-xai
 excerpt: 'Benchmarked CNN architectures (DenseNet121, ResNet152, VGG19, custom CNN) for lung cancer detection from CT scans, with SHAP-based post-hoc explainability to identify discriminative regions.'
 date: 2025-08-01
