@@ -63,14 +63,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Certifications
-======
-* AI Agents Fundamentals — Hugging Face (2025)
-* Data Analyst with Python — DataCamp
-* CNN with TensorFlow in Python — 365 Data Science
-* Image Processing with Keras — DataCamp
-* AWS Academy Cloud Foundations — AWS
-
 Awards & Honors
 ======
 * Best Poster Presenter, 16th NeSA International Conference, 2025
